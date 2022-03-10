@@ -1,6 +1,6 @@
 # GraphQL_Training
 
-** This repo has been created to test GraphQL **
+**This repo has been created to test GraphQL**
 
 ## PURPOSES
 
